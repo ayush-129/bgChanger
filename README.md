@@ -6,3 +6,4 @@ Currently, two official plugins are available:
 
 site live at
 https://ayush-129.github.io/bgChanger/
+
